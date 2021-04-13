@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background: rgb(0,116,255);
+    background: linear-gradient(90deg, rgba(0,116,255,1) 0%, rgba(83,31,120,1) 43%, rgba(106,0,77,1) 67%, rgba(133,0,20,1) 100%); 
+    
+    width: 1300px;
+    height: 2000px;
+    padding: 0;
+    margin: 0;
+}
+
+
+img{
+    width: 20%;
+    height: 15%;
+    margin-right: -2px;
+    margin-bottom: -2px;
+
+}
+table{
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    background: rgb(241,2,7);
+    background: linear-gradient(90deg, rgba(241,2,7,1) 0%, rgba(245,0,46,1) 100%, rgba(252,176,69,1) 100%); 
+    color: white;
+    margin-left: 500px;
+}

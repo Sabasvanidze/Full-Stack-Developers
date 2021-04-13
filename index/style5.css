@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    background-color: white;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 1400px;
+    
+    
+}
+.table{
+    background: rgb(0,116,255);
+    background: linear-gradient(90deg, rgba(0,116,255,1) 0%, rgba(83,31,120,1) 43%, rgba(106,0,77,1) 67%, rgba(133,0,20,1) 100%); 
+    
+    text-align: center;
+    width: 100%;
+    height: 300px;
+}
+.input{
+   
+    width:150px ;
+    height: 25px;
+    border-radius: 7px;
+    background: rgb(241,2,7);
+    background: linear-gradient(90deg, rgba(241,2,7,1) 0%, rgba(245,0,46,1) 100%, rgba(252,176,69,1) 100%); 
+    color: white;
+    
+
+}
+.table1{
+    color: black;
+    text-align: center;
+    width: 100%;
+
+}
+.tabledata{
+    width: 300px;
+    height: 200px;
+    margin-right: -4px;
+    margin-bottom: -4px;
+}
+.table2{
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+.input1{
+    background-color: white;
+    border-color: teal;
+    color: rgb(1, 24, 24);
+    border-radius: 7px;
+    width: 100px;
+    height: 25px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    transition: .5s;
+    cursor: pointer;
+    
+}
+input:hover{
+   background-color: teal;
+}
+
+.tabledata1{
+    width: 200px;
+    height: 150px;
+    margin-right: 15px;
+}

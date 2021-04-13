@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.section{
+    background-color: rgb(209, 208, 208);
+    width:70% ;
+    height: 700px;
+    margin-left: 200px;
+    margin-top: -20px;
+    
+}
+font{
+    color: red;
+}
+.section>h1{
+    font-size: 15pt;
+    color: rgba(0, 0, 0, 0.438);
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.section>p{
+    font-size: 10pt;
+    color: rgba(0, 0, 0, 0.438) ;
+    padding-bottom: 50px;
+   border-bottom: 5pt rgba(0, 0, 0, 0.438);
+    
+}
+img{
+width: 170px;
+height: 170px;
+margin: 10pt;
+margin-bottom: 20pt;
+padding-top: 55px;
+}
+
